@@ -1,6 +1,6 @@
 FROM rocker/rstudio
 
-# Install R packages
+# Install R packages s
 RUN install2.r --error \
     blogdown \
     markdown \
